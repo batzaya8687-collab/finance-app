@@ -1,0 +1,4 @@
+finance.db
+finance.db-wal
+finance.db-shm
+__pycache__/
